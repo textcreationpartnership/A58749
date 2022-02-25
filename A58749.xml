@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon His Majesties late declarations for toleration and publication of war against the Hollander a poem / by T.S. of Grayes-Inne, Esq.</title>
+            <author>T. S., of Grayes-Inne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58749</idno>
+            <idno type="STC">Wing S186A</idno>
+            <idno type="STC">ESTC R6002</idno>
+            <idno type="EEBO-CITATION">12581262</idno>
+            <idno type="OCLC">ocm 12581262</idno>
+            <idno type="VID">63761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 331:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon His Majesties late declarations for toleration and publication of war against the Hollander a poem / by T.S. of Grayes-Inne, Esq.</title>
+                  <author>T. S., of Grayes-Inne.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Samuel Heyrick ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Dutch War, 1672-1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63761:1"/>
+            <pb facs="tcp:63761:1" rendition="simple:additions"/>
+            <p>UPON His Majeſties LATE DECLARATIONS FOR TOLERATION, AND Publication of War AGAINST THE HOLLANDER.</p>
+            <p>A POEM: By <hi>T. S.</hi> of GRAYES-INNE, Eſq;</p>
+            <q xml:lang="lat">Regum eſt— Parcere Subjectis, debellare Superbos.</q>
+            <p>
+               <hi>London:</hi> Printed by <hi>J. C.</hi> for <hi>Samuel Heyrick,</hi> at <hi>Grayes. Inne-Gate</hi> in <hi>Holborn,</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:63761:2"/>
+            <pb n="1" facs="tcp:63761:2"/>
+            <head>UPON HIS MAJESTIES LATE Declarations, etc.</head>
+            <lg>
+               <l>SO <hi>Jove,</hi> when he hath made his Anger known,</l>
+               <l>And finds the Trembling World his Juſtice own;</l>
+               <l>Diſcards his Thunder, and with man complies;</l>
+               <l>And at the laſt receives his Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>The Penal Laws 'gainſt <hi>Non-Conformiſts</hi> made,</l>
+               <l>Juſt like <hi>Joves</hi> Thunder, theſe three Kingdoms aw'd:</l>
+               <l>But this Indulgence ſhews that Kings can be,</l>
+               <l>Although as Dreadful, Merciful as he.</l>
+            </lg>
+            <lg>
+               <l>The Title of <hi>Supremacy</hi> is now</l>
+               <l>Not leſſen'd, but increas'd: all <hi>Sects</hi> allow</l>
+               <l>
+                  <hi>Charles</hi> their Supreme, and him as <hi>Head</hi> obey;</l>
+               <l>Owning themſelves <hi>Conformiſts</hi> from this day.</l>
+               <l>Thus hath his Mercy added to his Store:</l>
+               <l>He's <hi>Head</hi> of <hi>Churches</hi> now, but <hi>one</hi> before.</l>
+            </lg>
+            <lg>
+               <l>No more ſhall wandring <hi>Zeal</hi> miſs-guide our feet;</l>
+               <l>All now are fixt, and ready to ſubmit:</l>
+               <l>Our hands and hearts unan'mouſly ſhall joyn,</l>
+               <l>And 'gainſt th'Imperious <hi>Hollander</hi> combine.</l>
+               <pb n="2" facs="tcp:63761:3"/>
+               <l> The Cauſe ſo Juſt, that Heavens, to do us right,</l>
+               <l>Would plague them ſome way, were we not to fight.</l>
+               <l>Perfidiou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>States!</hi> whoſe Faiths no Leagues can binde;</l>
+               <l>But, like your <hi>Ships,</hi> ſtill move with every winde.</l>
+               <l>Like floating <hi>Delos,</hi> may your <hi>Iſland</hi> be</l>
+               <l>By <hi>Pioneers</hi> unſtak'd, and ſent to Sea;</l>
+               <l>VVhere barking waves, ſet on by angry windes,</l>
+               <l>Purſue you till you have out-paſt the <hi>Lines:</hi>
+               </l>
+               <l>And if they ever ſix it, may it be</l>
+               <l>'Mongſt Strangers unto all Humanity.</l>
+               <l>And ſince your <hi>Vaſſal-Fleet</hi> denies to do</l>
+               <l>That <hi>Homage</hi> which unto our <hi>Sov'raign</hi>'s due;</l>
+               <l>Our <hi>Engliſh Oaks,</hi> fram'd into winged Forts,</l>
+               <l>The ſtrength of Cities, and the pride of Courts,</l>
+               <l>Shall on the Surface of the <hi>Ocean</hi> move,</l>
+               <l>Our Right, as well o're <hi>Sea</hi> as <hi>Land</hi> to prove:</l>
+               <l>A Right ſo Ancient, not to be deni'd</l>
+               <l>Since old <hi>Canutus</hi> checkt the forward Tide,</l>
+               <l>And <hi>Xerxes</hi>-like, his Sov'raign Power to ſhow,</l>
+               <l>Did limit its <hi>Proud Waves</hi> how far to flow.</l>
+               <l>Is't not enough t'ingroſs abroad the <hi>Trade,</hi>
+               </l>
+               <l>But muſt you too our <hi>Narrow-Seas</hi> invade?</l>
+               <l>From whoſe Exub'rous Spoils, you now are grown</l>
+               <l>From ſneaking Fiſher-men, proud names to own;</l>
+               <l>As <hi>Hagen</hi>'s <hi>Mogen</hi>'s, High and Mighty States,</l>
+               <l>And bid Defiance to all Potentates.</l>
+               <l>In your Diſtreſſes, our Protections gave</l>
+               <l>You ſafety; whence you now your Beings have:</l>
+               <l>Unto our <hi>Empire</hi> you now did then agree,</l>
+               <l>And own'd us <hi>Sov'raign</hi> both by <hi>Land</hi> and <hi>Sea;</hi>
+               </l>
+               <l>But now, Imperious <hi>
+                     <g ref="char:V">Ʋ</g>pſtarts,</hi> you are grown</l>
+               <l>So proud, as ev'n your <hi>Foſt'rer</hi> to diſown.</l>
+               <l>So the ungrateful Serpent, (<hi>Aeſop</hi> ſhows)</l>
+               <l>Stead of <hi>Reward,</hi> his ſpiteful <hi>Venom</hi> throws</l>
+               <l>Upon thoſe <hi>Courteous Hands</hi> that did replieve</l>
+               <l>His fading life, and him with warmth relieve.</l>
+               <l>And ſince you both alike ungrateful are,</l>
+               <l>You with the <hi>Serpent</hi> his <hi>Old Curſe</hi> ſhall ſhare;</l>
+               <pb n="3" facs="tcp:63761:3"/>
+               <l> Not to be beaten only, or out-right</l>
+               <l>Be ſlain; but always creep when we're in ſight.</l>
+               <l>We'll make the <hi>Belgick Lyon</hi> Couchant lye,</l>
+               <l>And ſculk himſelf for fear, when we paſs by.</l>
+            </lg>
+            <lg>
+               <l>And now, methinks, I ſee Confed'rate Gales</l>
+               <l>Of lucky <hi>Windes</hi> inſpire our <hi>Navy</hi>'s Sails:</l>
+               <l>And firſt of all, the <hi>Prince,</hi> for State and Power,</l>
+               <l>Proud of her Royal Burthen, quits the ſhore;</l>
+               <l>From whoſe Broad Sides thick-planted Canons ſhow</l>
+               <l>Safety to us, and danger to our <hi>Foe.</hi>
+               </l>
+               <l>Here <hi>York</hi>'s brave <hi>Heroe,</hi> in whoſe ſingle Breſt</l>
+               <l>The ſcatter'd valours of <hi>Fam'd Warriours</hi> reſt;</l>
+               <l>With Reſolution, big as Fate, commands;</l>
+               <l>And parting, ſhoots at the departing Strands:</l>
+               <l>His Complement the grateful <hi>Streams</hi> repeat</l>
+               <l>Unto thoſe <hi>Groves,</hi> that to the <hi>Royal Fleet</hi>
+               </l>
+               <l>Contributed their ſtrengths, who nimbly move;</l>
+               <l>Grown ſenſible, not thorow <hi>Fear,</hi> but <hi>Love.</hi>
+               </l>
+               <l>The Generous Billows emulous to bear</l>
+               <l>So brave a <hi>Fabrick,</hi> croud to take their ſhare;</l>
+               <l>And o're their <hi>Frothy Necks</hi> the Veſſel rides,</l>
+               <l>And dances to and fro with ſportive Tides.</l>
+            </lg>
+            <lg>
+               <l>And thou, Great <hi>Oſs'ry,</hi> in whoſe ſpriteful <hi>Veins,</hi>
+               </l>
+               <l>Nobility and Valour joyntly Reigns;</l>
+               <l>With <hi>Digby,</hi> ſprung from valiant <hi>Hero</hi>'s Races,</l>
+               <l>Who both add Honour to your ſeveral places;</l>
+               <l>Whom nothing but Allegiance, and to right</l>
+               <l>Our Nations wrongs, engaged you to ſight.</l>
+               <l>Go on, and make a difference appear</l>
+               <l>Between a Courage hir'd, and <hi>Volunteer:</hi>
+               </l>
+               <l>You were Commanders born; ſuch to obey:</l>
+               <l>You fight for <hi>Honour</hi> only, they for <hi>Pay.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Behold the brave <hi>Levina</hi> now, who brings</l>
+               <l>A <hi>General Wonder</hi> with her Canvas wings:</l>
+               <l>Within whoſe <hi>Wooden Walls</hi> a valiant Brood</l>
+               <l>Of twiſted Nations, not well underſtood,</l>
+               <pb n="4" facs="tcp:63761:4"/>
+               <l> Unite their <hi>Valours;</hi> and in ſeveral <hi>Tongues,</hi>
+               </l>
+               <l>Betray their <hi>Zeals,</hi> to right our Nations wrongs.</l>
+               <l>A Second <hi>Babel,</hi> fitted for the Seas;</l>
+               <l>Both for its <hi>Height,</hi> and choice of <hi>Languages.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next, the Reſolved <hi>Kempthorn</hi> her ſucceeds;</l>
+               <l>Preferr'd to <hi>Honour,</hi> not by <hi>Friends,</hi> but <hi>Deeds:</hi>
+               </l>
+               <l>His valiant Acts are Regiſtred by <hi>Fame,</hi>
+               </l>
+               <l>And <hi>Algiers</hi> Pyrats ſtill ſhall Dread his Name.</l>
+               <l>The <hi>Azure Flags,</hi> upon his <hi>Maſts,</hi> appear</l>
+               <l>Like the <hi>Blew Aprons</hi> which the <hi>Sea-Nymphs</hi> wear:</l>
+               <l>Which ſhews, that with thoſe <hi>Nymphs</hi> h'hath often been</l>
+               <l>Familiar, and their Father <hi>Neptune</hi>'s Friend.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Loyal London</hi> follows next to theſe;</l>
+               <l>Some call her the <hi>Metropolis</hi> of the <hi>Seas:</hi>
+               </l>
+               <l>About whoſe walls, not <hi>Thames,</hi> but <hi>Seas</hi> now cling,</l>
+               <l>Wondring to ſee a <hi>City</hi> thus on wing.</l>
+               <l>
+                  <hi>Venice</hi> no more ſhall <hi>Neptune</hi>'s Darling be,</l>
+               <l>That ſtays aſhore, whilſt this purſues the <hi>Sea.</hi>
+               </l>
+               <l>Here valiant <hi>Spragg,</hi> (like the <hi>Lord Mayor</hi>) appears;</l>
+               <l>Only this difference: <hi>Spragg</hi> his own Sword bears,</l>
+               <l>My <hi>Lord</hi>'s ſupported is by other hands;</l>
+               <l>This rules the <hi>Sea,</hi> whilſt t'other rules the <hi>Lands.</hi>
+               </l>
+               <l>Nor is there wanting, to encreaſe his State,</l>
+               <l>A <hi>Cap of Maintenance:</hi> ſince his ſober Pate,</l>
+               <l>Still to his active hands commends Advice;</l>
+               <l>'Tis happy to be <hi>Valiant</hi> and <hi>Wiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Harman,</hi> now his <hi>Fiery Ordeal</hi>'s paſt,</l>
+               <l>Submits unto his <hi>Watry Tryal</hi> laſt;</l>
+               <l>Whoſe ſober valour ſhall encreaſe his Glory,</l>
+               <l>And gain new Plumes t'enrich a future Story.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jordan,</hi> within whoſe Aged veins does flow</l>
+               <l>A Spriteful Blood, not quench'd by Ages Snow;</l>
+               <l>Like Reverend <hi>Neſtor,</hi> on the <hi>Deck</hi> appears,</l>
+               <l>As well for Prudent Conduct, as for Years.</l>
+               <pb n="5" facs="tcp:63761:4"/>
+               <l> The <hi>Sov'raign</hi> he Commands (a Ship for fight)</l>
+               <l>Deſign'd as well for <hi>Wonder</hi> as <hi>Delight.</hi>
+               </l>
+               <l>Great was his Skill contriv'd ſo proud a Frame;</l>
+               <l>But greater was his Minde deſign'd the ſame.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Holmes,</hi> whoſe <hi>Reſolves</hi> are not to be out-done,</l>
+               <l>Having of late new <hi>Wreaths of Honour</hi> won,</l>
+               <l>Aſſumes a Courage fit for <hi>Engliſh</hi> men;</l>
+               <l>And newly off, bravely falls to't agen.</l>
+               <l>The <hi>Michael,</hi> once more, ſhall the <hi>Dutch</hi> perplex,</l>
+               <l>As once its <hi>Patron</hi> did the <hi>Devil</hi> vex.</l>
+               <l>His Dreadful Name, ever ſince <hi>Scevelin</hi>-Fires,</l>
+               <l>Affrights the <hi>Dutch;</hi> both Children, and old Sires.</l>
+               <l>All fly, if <hi>Holmes</hi> appear, and yield him place;</l>
+               <l>He gains a Conqueſt by his very Face.</l>
+            </lg>
+            <lg>
+               <l>And now my modeſt <hi>Muſe,</hi> jealous leſt ſhe</l>
+               <l>Should be ſuſpected of Diſhoneſty,</l>
+               <l>And have her Credit blaſted by ill Tongues,</l>
+               <l>Forward enough to offer <hi>Virgins</hi> wrongs,</l>
+               <l>Retires, and dares not further board the <hi>Fleet;</hi>
+               </l>
+               <l>And faith the Author's glad enough of it.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
